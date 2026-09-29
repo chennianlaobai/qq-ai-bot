@@ -1,0 +1,36 @@
+{
+  "_说明": "示例课表 —— 改成你自己的课表即可（只影响「上课提醒」）。weekday：1=周一 … 7=周日；period 必须在 period_start 里有对应节次。location 留空则提醒里不显示地点。",
+  "remind_before": 20,
+  "morning_hour": 6,
+  "morning_minute": 0,
+  "night_hour": 23,
+  "night_minute": 0,
+  "period_start": {
+    "1": "08:00",
+    "2": "10:00",
+    "3": "14:00",
+    "4": "16:00",
+    "5": "19:00"
+  },
+  "timetable": {
+    "1": [
+      { "period": 1, "name": "高等数学", "location": "教学楼A101" },
+      { "period": 3, "name": "大学英语", "location": "教学楼B203" },
+      { "period": 4, "name": "数据结构", "location": "实验楼C305" }
+    ],
+    "2": [
+      { "period": 2, "name": "线性代数", "location": "教学楼A202" },
+      { "period": 5, "name": "程序设计基础", "location": "实验楼C101" }
+    ],
+    "3": [
+      { "period": 1, "name": "大学物理", "location": "教学楼D401" }
+    ],
+    "4": [
+      { "period": 2, "name": "概率论与数理统计", "location": "教学楼A303" },
+      { "period": 4, "name": "计算机组成原理", "location": "实验楼C208" }
+    ],
+    "6": [
+      { "period": 1, "name": "思想道德与法治", "location": "教学楼E105" }
+    ]
+  }
+}

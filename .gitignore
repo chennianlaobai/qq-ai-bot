@@ -1,0 +1,18 @@
+# ── 敏感：真实密钥绝不进版本库 ──
+.env
+.env.*
+!.env.example
+
+# ── 运行时数据：含群友隐私 / 聊天记录 ──
+memory/
+logs/
+
+# ── 环境 / 缓存 ──
+.venv/
+__pycache__/
+*.py[cod]
+
+# ── 编辑器 ──
+.vscode/
+.idea/
+.DS_Store

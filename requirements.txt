@@ -1,0 +1,5 @@
+nonebot2[fastapi]
+nonebot-adapter-onebot
+httpx
+python-dotenv
+nonebot-plugin-apscheduler

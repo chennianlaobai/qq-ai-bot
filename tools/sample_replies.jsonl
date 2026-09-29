@@ -1,0 +1,16 @@
+{"ts":"2026-09-25T13:01:00","kind":"reply","group_id":100000000,"speaker":"张三","user_msg":"帮我讲下这题","reply":"就这？上课没听吧","mood":"得意","images":0,"latency_ms":1800,"error":""}
+{"ts":"2026-09-25T13:02:00","kind":"reply","group_id":100000000,"speaker":"李四","user_msg":"今天吃啥","reply":"您好，请问有什么我可以帮您的呢？作为一个人工智能语言模型，我可以为您提供以下几种建议：1. 食堂 2. 外卖 3. 自己做饭。希望我的回答对您有帮助，如有其他问题请随时告诉我。","mood":"","images":0,"latency_ms":3200,"error":""}
+{"ts":"2026-09-25T13:03:00","kind":"reply","group_id":100000000,"speaker":"王五","user_msg":"哈哈哈","reply":"就这？上课没听吧","mood":"得意","images":0,"latency_ms":1500,"error":""}
+{"ts":"2026-09-25T13:04:00","kind":"reply","group_id":100000000,"speaker":"赵六","user_msg":"发个图看看","reply":"这是一张猫咪在沙发上睡觉的图片，画面构图采用了三分法，光线柔和，整体呈现出一种温馨的氛围，体现了摄影师对日常生活中静谧时刻的敏锐捕捉与人文关怀。","mood":"","images":1,"latency_ms":4200,"error":""}
+{"ts":"2026-09-25T13:05:00","kind":"reply","group_id":100000000,"speaker":"孙七","user_msg":"在吗","reply":"","mood":"","images":0,"latency_ms":9000,"error":"API_ERROR"}
+{"ts":"2026-09-25T13:06:00","kind":"scheduled","group_id":100000000,"speaker":"","user_msg":"早安","reply":"起了起了，今天早八吧，别又迟到","mood":"开心","images":0,"latency_ms":2100,"error":""}
+{"ts":"2026-09-25T13:07:00","kind":"reply","group_id":100000000,"speaker":"周八","user_msg":"你真聪明","reply":"那可不(￣▽￣)~* QAQ TAT 人家超开心的呢~ ○|￣|_ ","mood":"卖萌","images":0,"latency_ms":1600,"error":""}
+{"ts":"2026-09-25T13:08:00","kind":"reply","group_id":100000000,"speaker":"周八","user_msg":"这波稳了","reply":"哼，偶尔也挺可爱的嘛","mood":"得意","images":0,"latency_ms":1400,"error":""}
+{"ts":"2026-09-25T13:09:00","kind":"reply","group_id":100000000,"speaker":"张三","user_msg":"别闹了","reply":"好嘛好嘛，别生气了~","mood":"委屈","images":0,"latency_ms":1500,"error":""}
+{"ts":"2026-09-25T13:10:00","kind":"reply","group_id":100000000,"speaker":"李四","user_msg":"帮我改个 bug","reply":"行嘛，你就答应我呗~","mood":"卖萌","images":0,"latency_ms":1700,"error":""}
+{"ts":"2026-09-25T13:11:00","kind":"reply","group_id":100000000,"speaker":"王五","user_msg":"作业写完了吗","reply":"夸夸我嘛，我超乖的 awa","mood":"卖萌","images":0,"latency_ms":1300,"error":""}
+{"ts":"2026-09-25T13:12:00","kind":"reply","group_id":100000000,"speaker":"赵六","user_msg":"在干嘛","reply":"理理我好不好嘛","mood":"卖萌","images":0,"latency_ms":1600,"error":""}
+{"ts":"2026-09-25T13:13:00","kind":"reply","group_id":100000000,"speaker":"孙七","user_msg":"睡了吗","reply":"就在这儿刷手机呀喵~","mood":"卖萌","images":0,"latency_ms":1500,"error":""}
+{"ts":"2026-09-25T13:14:00","kind":"reply","group_id":100000000,"speaker":"周八","user_msg":"晚安","reply":"蹭蹭，抱抱好不好嘛","mood":"卖萌","images":0,"latency_ms":1400,"error":""}
+{"ts":"2026-09-25T13:15:00","kind":"reply","group_id":100000000,"speaker":"张三","user_msg":"祝我生日快乐","reply":"祝生日快乐，可惜你又老了一岁，绷不住了","mood":"得意","images":0,"latency_ms":1500,"error":""}
+{"ts":"2026-09-25T13:16:00","kind":"reply","group_id":100000000,"speaker":"李四","user_msg":"明天考研，给我说句祝福","reply":"考试顺利，复习的都考，稳住别慌\n反正复习不完的不止你一个","mood":"开心","images":0,"latency_ms":1700,"error":""}
